@@ -1,0 +1,12 @@
+product_id,name,category,price,in_stock
+P001,Laptop,Electronics,1200,TRUE
+P002,Smartphone,Electronics,800,TRUE
+P003,Headphones,Accessories,150,TRUE
+P004,Keyboard,Accessories,90,FALSE
+P005,Monitor,Electronics,300,TRUE
+P006,Mouse,Accessories,40,TRUE
+P007,Tablet,Electronics,600,TRUE
+P008,Webcam,Accessories,110,FALSE
+P009,Charger,Accessories,30,TRUE
+P010,Printer,Electronics,200,TRUE
+P011,Chair,,100,TRUE

@@ -1,0 +1,6 @@
+customer_id,name,city,email,updated_at
+1,Alice,Chicago,alice@example.com,23-05-2025 15:09
+2,Bob,New York,bob@example.com,23-05-2025 15:09
+3,Charlie,Phoenix,charlie@example.com,23-05-2025 15:09
+4,Diana,Los Angeles,diana@example.com,23-05-2025 15:09
+5,Evan,Houston,evan@example.com,23-05-2025 15:09
